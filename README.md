@@ -36,7 +36,6 @@ This project is split into the following services:
 - OpenFeign
 - API Gateway
 - MySQL
-- Docker (if used)
 
 ---
 
