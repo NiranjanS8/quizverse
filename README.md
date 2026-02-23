@@ -22,6 +22,11 @@ This project is split into the following services:
   https://github.com/user/quiz-config-server
 
 ---
+## 🔄 System Architecture
+
+![Architecture](architecture.png)
+
+---
 
 ## 🔧 Tech Stack
 
