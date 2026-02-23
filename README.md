@@ -24,7 +24,7 @@ This project is split into the following services:
 ---
 ## 🔄 System Architecture
 
-![Architecture](architecture.png)
+![Architecture](./architecture.png)
 
 ---
 
