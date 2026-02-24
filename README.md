@@ -10,7 +10,7 @@ This project is split into the following services:
   https://github.com/NiranjanS8/quiz-question-service
 
 - 🔹 Quiz Service  
-  https://github.com/NiranjanS8/quiz-quiz-service
+  [https://github.com/NiranjanS8/quiz-quiz-service](https://github.com/NiranjanS8/quiz-quiz-service)
 
 - 🔹 API Gateway  
   https://github.com/NiranjanS8/quiz-api-gateway
