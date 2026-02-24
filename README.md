@@ -13,13 +13,13 @@ This project is split into the following services:
   [QuizVerse/quiz-quiz-service](https://github.com/NiranjanS8/quiz-quiz-service)
 
 - 🔹 API Gateway  
-  QuizVerse/quiz-api-gateway
+  [QuizVerse/quiz-api-gateway](https://github.com/NiranjanS8/quiz-api-gateway)
 
 - 🔹 Service Registry (Eureka)  
   [QuizVerse/quiz-service-registry](https://github.com/NiranjanS8/quiz-service-registry)
 
 - 🔹 Config Server  
-  QuizVerse/quiz-config-server
+  [QuizVerse/quiz-config-server](https://github.com/NiranjanS8/quiz-service-registry)
 
 ---
 ## 🔄 System Architecture
