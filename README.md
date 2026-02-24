@@ -7,19 +7,19 @@ QuizVerse is a Spring Boot based Quiz Application built using Microservices Arch
 This project is split into the following services:
 
 - 🔹 Question Service  
-  https://github.com/user/quiz-question-service
+  https://github.com/NiranjanS8/quiz-question-service
 
 - 🔹 Quiz Service  
-  https://github.com/user/quiz-quiz-service
+  https://github.com/NiranjanS8/quiz-quiz-service
 
 - 🔹 API Gateway  
-  https://github.com/user/quiz-api-gateway
+  https://github.com/NiranjanS8/quiz-api-gateway
 
 - 🔹 Service Registry (Eureka)  
-  https://github.com/user/quiz-service-registry
+  [https://github.com/user/quiz-service-registry](https://github.com/NiranjanS8/quiz-service-registry)
 
 - 🔹 Config Server  
-  https://github.com/user/quiz-config-server
+  https://github.com/NiranjanS8/quiz-config-server
 
 ---
 ## 🔄 System Architecture
